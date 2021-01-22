@@ -4,7 +4,7 @@
 ds <- function(x) {
   par(mfrow=c(1,2))
   #Histrogram
-  his(x)
+  hist(x)
   #Box plot
   boxplot(x)
   par(mfrow = c(1,1))
