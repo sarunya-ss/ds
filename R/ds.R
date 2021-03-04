@@ -1,9 +1,9 @@
-#' Create Histrogam Boxplot and summary
+#' Create Histogam Boxplot and summary
 #' @export
 #' @param x numeric variable
 ds <- function(x) {
   par(mfrow=c(1,2))
-  #Histrogram
+  #Histogram
   hist(x)
   #Box plot
   boxplot(x)
