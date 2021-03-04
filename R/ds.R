@@ -1,4 +1,4 @@
-#' Create Histogam Boxplot and summary
+#' Create Histogram Boxplot and summary
 #' @export
 #' @param x numeric variable
 ds <- function(x) {
