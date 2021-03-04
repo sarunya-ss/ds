@@ -2,7 +2,7 @@
 % Please edit documentation in R/ds.R
 \name{ds}
 \alias{ds}
-\title{Create Histrogam Boxplot and summary}
+\title{Create Histogram Boxplot and summary}
 \usage{
 ds(x)
 }
@@ -10,5 +10,5 @@ ds(x)
 \item{x}{numeric variable}
 }
 \description{
-Create Histrogam Boxplot and summary
+Create Histogram Boxplot and summary
 }
